@@ -15,6 +15,11 @@ export default function App() {
           <p>
             One small React project for GitHub collaboration, component analysis,
             Vercel deployment and REST API integration.
+
+
+
+
+            CHANGE FOR PR
           </p>
           <span className="hero-tag">CLASS PRACTICE ONLY · NO SUBMISSION</span>
         </section>
